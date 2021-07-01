@@ -4,13 +4,15 @@
   "description": "这是一个关于电商外卖系统的Vue项目",
   "main": "app.js",
   "dependencies": {
+    "express": "^4.17.1",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "express": "^4.17.1",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
-    "mongoose": "^5.13.0",
-    "morgan": "~1.9.1"
+    "morgan": "~1.9.1",
+    "date-format": "^2.1.0",
+    "ejs": "^2.7.1",
+    "multiparty": "^4.2.1"
   },
   "devDependencies": {},
   "scripts": {
